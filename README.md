@@ -12,11 +12,13 @@
 - 😄 I am a Computer Science student at IIITDM Jabalpur.
 - 💬 Ask me about : Java, Cloud
 
+
 <!--
 **RhnSaxena/RhnSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning : Django
+- 🔭 I’m currently working on WebEx
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
