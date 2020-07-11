@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I am Rohan Saxena
+
+😄 I love to code and I am pursuing my Bachelor's from IIITDM Jabalpur<br>
+💬 How to reach me:  [LinkedIn](https://www.linkedin.com/in/rhnsaxena/) [Website](www.rohansaxena.in)
+
 <!--
 **RhnSaxena/RhnSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
